@@ -15,6 +15,3 @@ Background in the creative industry with a growing interest in AI auditing, syst
 ## 🛠️ Toolkit
 Python • Pandas • NumPy • Git • VS Code • Google Colab
 
-## 🔗 Contact
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ardi-sugiarto)
-- Email: [ardi.soegi@gmail.com](mailto:ardi.soegi@gmail.com)
