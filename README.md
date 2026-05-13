@@ -2,7 +2,7 @@
 
 ### Aspiring AI Auditor • Responsible AI • From Creative Industry to AI
 
-Background in the creative industry with a growing interest in AI auditing, system integrity, and responsible AI.
+Background in the creative industry with a growing interest in AI auditing, AI ethics, and responsible AI.
 
 ---
 
