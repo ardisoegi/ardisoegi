@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ardi Sugiarto
 
-<!--
-**ardisoegi/ardisoegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Auditor • Responsible AI • From Creative Industry to AI
 
-Here are some ideas to get you started:
+Background in the creative industry with a growing interest in AI auditing, system integrity, and responsible AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Current Focus
+- AI audit case studies
+- Data integrity & masking
+- Python-based analysis
+- Responsible AI practices
+
+## 🛠️ Toolkit
+Python • Pandas • NumPy • Git • VS Code • Google Colab
+
+## 🔗 Contact
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ardi-sugiarto)
+- Email: [ardi.soegi@gmail.com](mailto:ardi.soegi@gmail.com)
